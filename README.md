@@ -1,4 +1,4 @@
-# co96c4ae6be55a2874aed432d
+# Hometown homepage Scrimba Solo project
 
 ## About Scrimba
 
